@@ -70,7 +70,5 @@ int main () {
     printf("Carta 2 vence: Densidade Populacional = %.2f vs Carta 1 = %.2f\n", densidade_populacional_carta2, densidade_populacional_carta1);
   }
 
-
-
   return 0;
 }
